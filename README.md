@@ -23,4 +23,4 @@
 ### ☕ Support the Sovereign
 If this logic helps your local node, consider fueling the Blackwell 5070 for the next build:
 
-[**Buy Me a Coffee**](https://www.buymeacoffee.com/A-PC-I)
+[**Buy Me a Coffee**](https://buymeacoffee.com/apci)
