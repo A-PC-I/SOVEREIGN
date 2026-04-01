@@ -21,6 +21,21 @@
 ---
 
 ### ☕ Support the Sovereign
-If this logic helps your local node, consider fueling the Blackwell 5070 for the next build:
-
 [**Buy Me a Coffee**](https://buymeacoffee.com/apci)
+
+---
+
+### ⚖️ Transparency & Usage Terms
+
+**Free Community Use:**
+- Licensed for **Individuals**, **Non-Profits**, and **Small Businesses (<10 employees)**.
+
+**Enterprise & Commercial:**
+- Business licenses and exclusive purchase rights are available upon request.
+
+**🚫 Ethical Restriction:**
+- **Strictly Prohibited:** This software, logic, and weights may NOT be used by weapons manufacturers or defense-related industries. **Full stop.**
+
+**Outreach:**
+- **Business Inquiries:** [sovereignsmoulder@gmail.com](mailto:sovereignsmoulder@gmail.com)
+- **Hardware:** Verified on Blackwell RTX 5070 (12GB)
