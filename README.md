@@ -17,3 +17,10 @@
 - **PyTorch (.pt):** [Download Weights](https://github.com/A-PC-I/SOVEREIGN/raw/main/parent.pt)
 - **Universal Bridge (.onnx):** [Download Bridge](https://github.com/A-PC-I/SOVEREIGN/raw/main/parent.onnx)
 - **Blackwell Engine (.engine):** *Baking on the 5070... (ETA: Day 1 Patch)*
+
+---
+
+### ☕ Support the Sovereign
+If this logic helps your local node, consider fueling the Blackwell 5070 for the next build:
+
+[**Buy Me a Coffee**](https://www.buymeacoffee.com/A-PC-I)
