@@ -9,7 +9,7 @@
 
 | Track | Description | Link |
 | :--- | :--- | :--- |
-| **Anthem** | Renting My Own Life | [▶️ Play Now](https://github.com/A-PC-I/SOVEREIGN/raw/main/media/soundtrack/anthem.mp3) |
+| **Renting My Own Life** | The Flagship Anthem | [💾 Download Anthem](https://github.com/A-PC-I/SOVEREIGN/raw/main/media/soundtrack/Renting_My_Own_Life.mp3) |
 
 ---
 
